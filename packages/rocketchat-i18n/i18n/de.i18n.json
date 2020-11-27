@@ -2792,7 +2792,7 @@
   "Room_archivation_state_true": "Archiviert",
   "Room_archived": "Der Raum wurde archiviert",
   "room_changed_announcement": "Ankündigung des Raums wurde von <em>__user_by__</em> zu <em>__room_announcement__</em> geändert",
-  "room_changed_description": "Raumbeschreibung wurde von  von <em>__user_by__</em> zu <em>__room_description__</em> geändert",
+  "room_changed_description": "Raumbeschreibung wurde von <em>__user_by__</em> zu <em>__room_description__</em> geändert",
   "room_changed_privacy": "Der Raum wurde von <em>__user_by__</em> zum/r <em>__room_type__</em> geändert",
   "room_changed_topic": "Das Thema des Raums wurde von <em>__user_by__</em> zu <em>__room_topic__</em> geändert",
   "Room_default_change_to_private_will_be_default_no_more": "Das ist ein Standardkanal. Die Änderung zu einer privaten Gruppe führt dazu, dass er dies nicht mehr ist. Wollen Sie fortfahren?",
